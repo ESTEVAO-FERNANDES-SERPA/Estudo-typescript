@@ -139,3 +139,4 @@ cachorro.nascer()
 console.log(cachorro.idade)
 cachorro.estaVivo = false
 console.log(cachorro.estaVivo)
+console.log(cachorro)
